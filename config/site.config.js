@@ -52,6 +52,10 @@ module.exports = {
       name: 'Discord',
       link: 'https://discord.gg/6XxP5Wxkxg',
     },
+    {
+      name: 'Twitter',
+      link: 'https://twitter.com/OneFansub',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
